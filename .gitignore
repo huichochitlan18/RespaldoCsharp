@@ -1,0 +1,9 @@
+obj/
+bin/
+.vscode/*
+!.vscode/settings.json
+!.vsgicode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.vs/
